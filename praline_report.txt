@@ -1,0 +1,67 @@
+PCB statistics report
+=====================
+- Date: 4/27/2026 4:06:28 PM
+- Project: praline
+- Board name: praline
+
+Board
+-----
+- Width: 4724.41 mils
+- Height: 2952.76 mils
+- Area: 10792837 mils²
+- Front copper area: 3733040 mils²
+- Back copper area: 11357599 mils²
+- Min track clearance: 4.98 mils
+- Min track width: 5.00 mils
+- Min drill diameter: 11.81 mils
+- Board stackup thickness: 62.39 mils
+
+- Front footprint area: 5513443 mils²
+- Back footprint area: 1103561 mils²
+- Front component density: 51.08 %
+- Back component density: 10.22 %
+Pads
+----
+- Through hole: 346
+- SMD: 2464
+- Connector: 0
+- NPTH: 2
+- Castellated: 0
+- Press-fit: 0
+
+Vias
+----
+- Through vias: 953
+- Blind vias: 0
+- Buried vias: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         10 |         0 |    10 |
+|SMD:          |        497 |         0 |   497 |
+|Unspecified:  |          9 |        65 |    74 |
+|Total:        |        516 |        65 |   581 |
+
+Drill holes
+-----------
+
+| Count | Shape |      X Size |      Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-------------|-------------|--------|---------|-------------|------------|
+|   870 | Round |  11.81 mils |  11.81 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|   181 | Round |  11.81 mils |  11.81 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    83 | Round |  15.75 mils |  15.75 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|    71 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    32 | Round |  19.69 mils |  19.69 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    32 | Round |  15.75 mils |  15.75 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    10 | Round |  25.59 mils |  25.59 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round |  38.98 mils |  38.98 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round |  51.18 mils |  51.18 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 125.98 mils | 125.98 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round |  86.61 mils |  86.61 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round |  25.59 mils |  25.59 mils |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot |  23.62 mils |  66.93 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot |  23.62 mils |  47.24 mils |    PTH |     Pad |        F.Cu |       B.Cu |
